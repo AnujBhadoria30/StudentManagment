@@ -17,6 +17,7 @@ import S from './Component/S';
 import N from './Component/N';
 import All from './Component/All';
 // import Sdetails from './Component/Sdetails';
+//done//
 import Shownotices from './Component/Shownotics';
 
 function App() {
