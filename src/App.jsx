@@ -19,6 +19,7 @@ import All from './Component/All';
 // import Sdetails from './Component/Sdetails';
 //done//
 //sec//
+//adasda//
 import Shownotices from './Component/Shownotics';
 
 function App() {
